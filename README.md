@@ -1,4 +1,3 @@
-# music-instruments-inventory
 
 # Musical Instrument Class
 
